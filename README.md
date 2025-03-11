@@ -2,10 +2,6 @@
 A simple Java-based survival game where players can take hits from two types of guns. Each hit reduces health based on whether the player has armour. The objective is to survive as long as possible before health reaches zero.
 
 
-Description
-
-Gunfight Survival is a simple Java-based console game where players must survive multiple gunshots with varying damage values. Players can equip armour for added protection. The objective is to survive as long as possible before the player's health reaches zero.
-
 Features
 
 Add player details like name, health, weapon, and armour status.
